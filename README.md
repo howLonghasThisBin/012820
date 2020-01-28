@@ -6,4 +6,6 @@
 * at University of the Immaculate Conception
 * College of Computer Studies, Information Technology
 
-> This line is from remote.
+:white_check_mark: This line is from remote repo. *Checked from local repo.*
+
+This line is from local repo
